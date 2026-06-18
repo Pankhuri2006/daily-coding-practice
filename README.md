@@ -1,23 +1,24 @@
 # LeetCode Solutions 🚀
 
-Welcome to my LeetCode journey!
-
-This repository contains my solutions to LeetCode problems solved using Python.
+This repository contains my solutions to LeetCode problems solved using Python as part of the #DrGViswanathanChallenge.
 
 ## Goals
 - Improve problem-solving skills
-- Strengthen Data Structures & Algorithms
-- Maintain coding consistency
+- Strengthen Data Structures and Algorithms
+- Build coding consistency
 - Prepare for technical interviews
+- Track my coding journey publicly
 
 ## Progress
 
-| Problem No. | Problem Name | Difficulty |
-|------------|-------------|------------|
-| 1344 | Angle Between Hands of a Clock | Medium |
+| Day | Problem No. | Problem Name | Difficulty |
+|-----|------------|-------------|------------|
+| 1 | 1344 | Angle Between Hands of a Clock | Medium |
 
 ## Languages
 - Python
 
----
-⭐ Feel free to explore the solutions and follow my journey!
+## Challenge
+Following the #DrGViswanathanChallenge by solving coding problems, uploading solutions to GitHub, and sharing progress on LinkedIn.
+
+⭐ Consistency over perfection.
