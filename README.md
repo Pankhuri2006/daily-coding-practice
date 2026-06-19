@@ -14,7 +14,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | Day | Problem No. | Problem Name | Difficulty |
 |-----|------------|-------------|------------|
 | 1 | 1344 | Angle Between Hands of a Clock | Medium |
-
+| 2 | 1 | Two Sum | Easy |
 ## Languages
 - Python
 
