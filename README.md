@@ -15,7 +15,8 @@ This repository contains my solutions to LeetCode problems solved using Python a
 |-----|------------|-------------|------------|
 | 1 | 1344 | Angle Between Hands of a Clock | Medium |
 | 2 | 1 | Two Sum | Easy |
-| 3 | 125 | Valid Palindrome | Easy | 
+| 3 | 125 | Valid Palindrome | Easy |
+| 4 | 2 | Add Two Numbers | Medium |
 ## Languages
 - Python
 
