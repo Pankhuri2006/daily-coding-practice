@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 2 | 1 | Two Sum | Easy |
 | 3 | 125 | Valid Palindrome | Easy |
 | 4 | 2 | Add Two Numbers | Medium |
+| 5 | 1833 | Maximum Ice Cream Bars | Medium |
 ## Languages
 - Python
 
