@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 5 | 1833 | Maximum Ice Cream Bars | Medium | Greedy, Sorting |
 | 6 | 1189 | Maximum Number of Balloons | Easy | Strings, Frequency Counting |
 | 7 | 203 | Remove Linked List Elements | Easy | Linked List, Pointers |
+| 8 | 155 | Min Stack | Medium | Stack, Design |
 ## Languages
 - Python
 
