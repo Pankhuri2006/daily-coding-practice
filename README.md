@@ -11,16 +11,17 @@ This repository contains my solutions to LeetCode problems solved using Python a
 
 ## Progress
 
-| Day | Problem No. | Problem Name | Difficulty | Topics |
-|-----|------------|--------------|------------|---------|
-| 1 | 1344 | Angle Between Hands of a Clock | Medium | Math, Geometry |
-| 2 | 1 | Two Sum | Easy | Arrays, Hash Map |
-| 3 | 125 | Valid Palindrome | Easy | Strings, Two Pointers |
-| 4 | 2 | Add Two Numbers | Medium | Linked List |
-| 5 | 1833 | Maximum Ice Cream Bars | Medium | Greedy, Sorting |
-| 6 | 1189 | Maximum Number of Balloons | Easy | Strings, Frequency Counting |
-| 7 | 203 | Remove Linked List Elements | Easy | Linked List, Pointers |
-| 8 | 155 | Min Stack | Medium | Stack, Design |
+| Day | Problem No. | Problem Name                   | Difficulty | Topics                      |
+| --- | ----------- | ------------------------------ | ---------- | --------------------------- |
+| 1   | 1344        | Angle Between Hands of a Clock | Medium     | Math, Geometry              |
+| 2   | 1           | Two Sum                        | Easy       | Arrays, Hash Map            |
+| 3   | 125         | Valid Palindrome               | Easy       | Strings, Two Pointers       |
+| 4   | 2           | Add Two Numbers                | Medium     | Linked List                 |
+| 5   | 1833        | Maximum Ice Cream Bars         | Medium     | Greedy, Sorting             |
+| 6   | 1189        | Maximum Number of Balloons     | Easy       | Strings, Frequency Counting |
+| 7   | 203         | Remove Linked List Elements    | Easy       | Linked List, Pointers       |
+| 8   | 155         | Min Stack                      | Medium     | Stack, Design               |
+| 9   | 704         | Binary Search                  | Easy       | Binary Search, Arrays       |
 ## Languages
 - Python
 
