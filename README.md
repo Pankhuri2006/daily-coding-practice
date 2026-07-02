@@ -25,6 +25,8 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 11  | 56          | Merge Intervals                      | Medium     | Arrays, Sorting, Greedy         |
 | 12  | 20          | Valid Parentheses                    | Easy       | Stack, Hash Map, Strings        |
 | 13  | 167         | Two Sum II - Input Array Is Sorted   | Medium     | Two Pointers, Arrays            |
+| 14  | 49          | Group Anagrams                       | Medium     | Hash Map, Strings, Sorting      |
+| 15  | 121         | Best Time to Buy and Sell Stock      | Easy       | Arrays, Greedy                  |
 ## Languages
 - Python
 
