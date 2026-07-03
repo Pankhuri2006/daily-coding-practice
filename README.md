@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 13  | 167         | Two Sum II - Input Array Is Sorted   | Medium     | Two Pointers, Arrays            |
 | 14  | 49          | Group Anagrams                       | Medium     | Hash Map, Strings, Sorting      |
 | 15  | 121         | Best Time to Buy and Sell Stock      | Easy       | Arrays, Greedy                  |
+| 16  | 15          | 3Sum                                | Medium     | Arrays, Sorting, Two Pointers   |
 ## Languages
 - Python
 
