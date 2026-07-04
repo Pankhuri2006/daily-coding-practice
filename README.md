@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 14  | 49          | Group Anagrams                       | Medium     | Hash Map, Strings, Sorting      |
 | 15  | 121         | Best Time to Buy and Sell Stock      | Easy       | Arrays, Greedy                  |
 | 16  | 15          | 3Sum                                | Medium     | Arrays, Sorting, Two Pointers   |
+| 17  | 744         | Find Smallest Letter Greater Than Target | Easy | Binary Search, Arrays |
 ## Languages
 - Python
 
