@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 15  | 121         | Best Time to Buy and Sell Stock      | Easy       | Arrays, Greedy                  |
 | 16  | 15          | 3Sum                                | Medium     | Arrays, Sorting, Two Pointers   |
 | 17  | 744         | Find Smallest Letter Greater Than Target | Easy | Binary Search, Arrays |
+| 18  | 141         | Linked List Cycle                  | Easy       | Linked List, Two Pointers |
 ## Languages
 - Python
 
