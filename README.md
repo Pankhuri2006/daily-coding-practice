@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 16  | 15          | 3Sum                                | Medium     | Arrays, Sorting, Two Pointers   |
 | 17  | 744         | Find Smallest Letter Greater Than Target | Easy | Binary Search, Arrays |
 | 18  | 141         | Linked List Cycle                  | Easy       | Linked List, Two Pointers |
+| 19  | 383         | Ransom Note                        | Easy       | Hash Map, Strings, Frequency Counting |
 ## Languages
 - Python
 
