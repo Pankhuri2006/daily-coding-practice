@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems solved using Python a
 | 17  | 744         | Find Smallest Letter Greater Than Target | Easy | Binary Search, Arrays |
 | 18  | 141         | Linked List Cycle                  | Easy       | Linked List, Two Pointers |
 | 19  | 383         | Ransom Note                        | Easy       | Hash Map, Strings, Frequency Counting |
+| 20  | 347         | Top K Frequent Elements            | Medium     | Hash Map, Bucket Sort |
 ## Languages
 - Python
 
